@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="400" alt="logo" src="https://github.com/user-attachments/assets/3048570e-d331-41b9-9aef-6028a0b14c1a">
+<img align="center" width="1000" height="350" alt="logo" src="https://github.com/user-attachments/assets/3048570e-d331-41b9-9aef-6028a0b14c1a">
 
 
 ##
@@ -33,7 +33,7 @@ chmod +x hunter.py
 ## Usage/Examples
 
 ```bash
-  python3 hunter.py [-h] -s {ftp,ssh} [-p PORT] -H HOST -u USERNAME -P WORDLIST 
+python3 hunter.py [-h] -s {ftp,ssh} [-p PORT] -H HOST -u USERNAME -P WORDLIST 
 ```
 
 ## Screenshots
