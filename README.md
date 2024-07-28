@@ -17,7 +17,7 @@ Python3
 ## Installation
 
 ```bash
-  git clone https://github.com/iamarit/HUNTER
+  git clone https://github.com/iamarit/HUNTER.git
 ```
 ```bash
   cd HUNTER
