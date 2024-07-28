@@ -17,16 +17,16 @@ Python3
 ## Installation
 
 ```bash
-  git clone https://github.com/iamarit/HUNTER.git
+git clone https://github.com/iamarit/HUNTER.git
 ```
 ```bash
-  cd HUNTER
+cd HUNTER
 ```
 ```bash
-  pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ```bash
-  chomd +x hunter.py
+chmod +x hunter.py
 ```
 
 
