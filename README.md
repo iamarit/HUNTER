@@ -46,6 +46,9 @@ Python3
 
 <img width="621" alt="ssh" src="https://github.com/user-attachments/assets/b3757d43-1019-4f4f-bf1f-89ce42cc5c61">
 
+- Help
+
+<img width="623" alt="help" src="https://github.com/user-attachments/assets/e6f73de8-6dc0-47cc-8e7a-77f9e139b9a8">
 
 
 ## Authors
