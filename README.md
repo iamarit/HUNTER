@@ -9,7 +9,7 @@ A automate tool that allow you to bruteforce FTP/SSH service to crack password.
 
 - Cross platform (Windows, Linux)
 - Easy to use
-- Light-waight
+- Light weight
 - Less requirements
 ## Requirements
 
